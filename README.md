@@ -1,2 +1,2 @@
-# ants-vs-somebees
-Ants vs. Somebees is a tower defense game inspired by Plants vs. Zombies.
+# Ants vs. Somebees
+Ants vs. Somebees is a tower defense game inspired by PopCap Games' Plants vs. Zombies.
